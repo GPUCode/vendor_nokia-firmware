@@ -21,7 +21,6 @@ FIRMWARE_IMAGES := \
     mdtpsecapp \
     modem \
     nvdef \
-    persist \
     pmic \
     rpm \
     splash \
